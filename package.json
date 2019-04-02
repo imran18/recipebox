@@ -12,12 +12,12 @@
     "type": "git",
     "url": ""
   },
-  "author": "William Leung",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thisiswhale/Recipe-Box/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/thisiswhale/Recipe-Box#readme",
+  "homepage": "",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.3",
