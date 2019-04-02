@@ -6,7 +6,7 @@ Recipes able to save into your LocalStorage.
 
 ### Features
 
-  - sing up
+  - sign up
   - login
   - Delete a recipe
   - Edit a recipe
