@@ -1,0 +1,52 @@
+body,
+html {
+  background-color: #B21B00;
+  font-family: 'Karma', serif;
+  font-size: 18px; }
+
+.container {
+  width: 600px; }
+  .container .title {
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px; }
+  .container .panel-heading {
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2); }
+  .container .recipe-title {
+    font-size: 22px;
+    font-weight: bold; }
+  .container .panel-header-ingredients {
+    font-style: italic;
+    text-decoration: underline; }
+  .container .ingredients {
+    font-size: 16px;
+    border: 0px; }
+  .container button {
+    font-size: 18px;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2); }
+  .container .btn-delete {
+    margin-left: 5px; }
+
+.modal-content .modal-title {
+  font-size: 24px;
+  font-weight: bold; }
+
+.modal-content button.btn-edit {
+  background-color: #fff;
+  color: #f0ad4e; }
+
+.modal-content button.btn-edit:hover {
+  background-color: #e6e6e6; }
+
+.modal-content button.btn-add {
+  background-color: #fff;
+  color: #337ab7; }
+
+.modal-content button.btn-add:hover {
+  background-color: #e6e6e6; }
+
+.modal-content input {
+  color: #000;
+  font-size: 16px;
+  margin-bottom: 5px; }
